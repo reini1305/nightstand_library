@@ -1,5 +1,5 @@
 # Nightstand Library
-Easy to use library to implement a nightstand mode in pebble watchfaces
+Easy to use library to implement a nightstand mode in pebble watchfaces. If you put your pebble on its side, this will show a correctly rotated time in text form like in this picture:
 
 Usage boils down to:
 - `include "nightstand.h"` in your source file
