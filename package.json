@@ -1,7 +1,7 @@
 {
   "name": "nightstand",
   "author": "Christian Reinbacher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": ["dist.zip"],
   "keywords": ["pebble-package"],
   "description": "Easy to use library to implement a nightstand mode in pebble watchfaces. If you put your pebble on its side, this will show a correctly rotated time in text form while it is charging.",
@@ -14,7 +14,8 @@
     "targetPlatforms": [
       "aplite",
       "basalt",
-      "chalk"
+      "chalk",
+      "diorite"
     ],
     "resources": {
       "media": []
