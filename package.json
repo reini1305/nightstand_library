@@ -7,7 +7,7 @@
   "description": "Easy to use library to implement a nightstand mode in pebble watchfaces. If you put your pebble on its side, this will show a correctly rotated time in text form while it is charging.",
   "repository": "reini1305/nightstand_library",
   "license": "MIT",
-  "dependencies": { "pebble-effect-layer": "^1.0.0"},
+  "dependencies": { "pebble-effect-layer": "^1.1.2"},
   "pebble": {
     "projectType": "package",
     "sdkVersion": "3",
